@@ -12,7 +12,7 @@ Hello! I'm Harry, I'm a 4th year student at Carleton University enrolling in the
 ### iOS Application Developer (Intern • May 2025-Dec 2025)
 __[Thales Group CPL](https://cpl.thalesgroup.com), Ottawa, ON__
 
-- Helped bring the third-party import/export features from the Android version to [MobilePASS+](https://cpl.thalesgroup.com/access-management/authenticators/software-authentication/mobilepass-plus-push-authentication) iOS app by building the front-end UI with SwiftUI and incorporing internal Objective-C API
+- Helped bring the third-party import/export features from the Android version to [MobilePASS+](https://cpl.thalesgroup.com/access-management/authenticators/software-authentication/mobilepass-plus-push-authentication) iOS app by building the front-end UI with SwiftUI and incorporating internal Objective-C API
 - Assisted in helping preparing a demo product for the company's Hackathon by utilizing Cline AI to help code in HTML/JS/CSS
 
 ## Programming Languages
