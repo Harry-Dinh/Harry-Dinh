@@ -6,6 +6,7 @@ Hello! I'm Harry, I'm a 4th year student at Carleton University enrolling in the
 - [YT Remote](https://github.com/Harry-Dinh/YT-Remote)
 - [Text Memify](https://github.com/Harry-Dinh/Text-Memify)
 - [Power Notes](https://github.com/Harry-Dinh/Power-Notes)
+- [Re:Connect (archived)](https://github.com/Harry-Dinh/Re-Connect)
 
 ## Work Experiences
 
