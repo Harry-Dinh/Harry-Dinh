@@ -3,10 +3,14 @@
 
 ## About Myself
 Hello! I'm Harry, I'm a 4th year student at Carleton University enrolling in the Bachelor of Computer Science degree. I love building iOS and macOS apps as side projects whenever I'm free! I worked on a lot of projects, but the notable ones (and the ones that I'm actively working on) are as follow:
+
+### Active Development
 - [YT Remote](https://github.com/Harry-Dinh/YT-Remote)
 - [Text Memify](https://github.com/Harry-Dinh/Text-Memify)
 - [Power Notes](https://github.com/Harry-Dinh/Power-Notes)
-- [Re:Connect (archived)](https://github.com/Harry-Dinh/Re-Connect)
+
+### Archived
+- [Re:Connect](https://github.com/Harry-Dinh/Re-Connect)
 
 ## Work Experiences
 
