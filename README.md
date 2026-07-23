@@ -2,7 +2,8 @@
 📱 Hobbyist iOS/macOS software developer 💻
 
 ## About Myself
-Hello! I'm Harry, I'm a 4th year student at Carleton University enrolling in the Bachelor of Computer Science degree. I love building iOS and macOS apps as side projects whenever I'm free! I worked on a lot of projects, but the notable ones (and the ones that I'm actively working on) are as follow:
+Hello! I'm Harry, I'm a 4th year student at Carleton University enrolling in the Bachelor of Computer Science (Honours) degree, with a Software Engineering focus.
+I love building fully native iOS and macOS apps as side projects whenever I'm free! I worked on a lot of projects, but the notable ones (and the ones that I'm actively working on) are as follow:
 
 ### Active Development
 - [YT Remote](https://github.com/Harry-Dinh/YT-Remote)
